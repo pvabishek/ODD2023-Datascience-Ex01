@@ -78,6 +78,9 @@ df.info()
 
 <img width="357" alt="image" src="https://github.com/knight7080/ODD2023-Datascience-Ex01/assets/88542035/e553adbb-04cd-4057-927f-35256241cf90">
 <br><br>
-# RESULT 
+
+
+
+# RESULT:  
 Thus the given data is read,cleansed and the cleaned data is saved into the file.
 
